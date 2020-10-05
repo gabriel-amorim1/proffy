@@ -9,9 +9,9 @@ Configuração do ambiente:
 - Yarn versão > 1.0 && < 2.0)
 
 Para rodar o backend, entre na pasta 'server' e digite:
-  $ yarn start
+  ```$ yarn start```
   
- Para rodar o frontend, entre na pasta 'web' e digite:
-  $yarn start
+Para rodar o frontend, entre na pasta 'web' e digite:
+  ```$yarn start```
   
 Será aberta a URL 'http://localhost:3000/' no seu navegador padrão
