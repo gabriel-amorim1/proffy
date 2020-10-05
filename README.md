@@ -1,4 +1,6 @@
-Next Level Week #2
+# proffy
+
+Projeto desenvolvido durante a Next Level Week #2
 
 Neste repositório estão contidos a parte de backend e frontend do projeto Proffy, um projeto que busca conectar alunos e professores para aulas particulares sobre diversas matérias.
 
